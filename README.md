@@ -1,6 +1,12 @@
 # Scriptorium — Vibe-Coding Atelier
 
-Describe thy vision in plain words; the AI scribe inscribes working code.
+<p align="center">
+  <img src="assets/screenshot1.png" alt="Scriptorium application interface" width="900">
+</p>
+
+<p align="center">
+  <em>Describe thy vision in plain words; the AI scribe inscribes working code.</em>
+</p>
 
 Scriptorium is a browser-based "vibe-coding" studio: you type what you want
 in normal English, an LLM writes a complete, self-contained HTML page, and
@@ -9,6 +15,10 @@ you get a live preview — no build step, no framework knowledge required.
 It is themed as a medieval scriptorium, where the AI is the Scribe and your
 projects are bound Folios. The whole thing ships as a single static
 `index.html`, so it runs anywhere and keeps everything in the browser.
+
+<p align="center">
+  <img src="assets/screenshot2.png" alt="Scriptorium application interface" width="900">
+</p>
 
 ## Features
 
