@@ -20,7 +20,7 @@ projects are bound Folios. The whole thing ships as a single static
   - Local models via Ollama or LM Studio (private & free)
   - Cloud providers: OpenAI, Anthropic, and any compatible API
 - Everything (settings, chat, folios) persists in localStorage.
-- No backend, no account required — keys are stored only in the browser.
+- No backend, no account required. Keys are stored only in the browser.
 
 ## Getting started
 
