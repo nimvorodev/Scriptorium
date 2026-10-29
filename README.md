@@ -10,7 +10,7 @@
 
 Scriptorium is a browser-based "vibe-coding" studio: you type what you want
 in normal English, an LLM writes a complete, self-contained HTML page, and
-you get a live preview — no build step, no framework knowledge required.
+you get a live preview, no build step, no framework knowledge required.
 
 It is themed as a medieval scriptorium, where the AI is the Scribe and your
 projects are bound Folios. The whole thing ships as a single static
@@ -31,7 +31,7 @@ projects are bound Folios. The whole thing ships as a single static
   - Local models via Ollama or LM Studio (private & free)
   - Cloud providers: OpenAI, Anthropic, and any compatible API
 - Everything (settings, chat, folios) persists in localStorage.
-- No backend, no account required — keys are stored only in the browser.
+- No backend, no account required. Keys are stored only in the browser.
 
 ## Getting started
 
