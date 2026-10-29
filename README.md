@@ -2,9 +2,8 @@
 
 Describe thy vision in plain words; the AI scribe inscribes working code.
 
-Scriptorium is a browser-based "vibe-coding" studio: you type what you want
-in normal English, an LLM writes a complete, self-contained HTML page, and
-you get a live preview — no build step, no framework knowledge required.
+Scriptorium is a browser-based vibe-coding studio: you type what you want, an LLM writes a complete, self-contained HTML page, and
+you get a live preview. No build step, no framework knowledge required.
 
 It is themed as a medieval scriptorium, where the AI is the Scribe and your
 projects are bound Folios. The whole thing ships as a single static
@@ -49,7 +48,7 @@ any static server, or share it as a single file.
 ## Stack
 
 React 19 + TypeScript + Vite 7 + Tailwind CSS 4, bundled to a single file.
-No backend — all app state lives in `localStorage`.
+No backend. All app state lives in `localStorage`.
 
 ## Project layout
 
